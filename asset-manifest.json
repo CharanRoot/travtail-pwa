@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/travtail-pwa/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/travtail-pwa/static/js/main.d4afa458.chunk.js",
-    "main.js.map": "/travtail-pwa/static/js/main.d4afa458.chunk.js.map",
-    "runtime-main.js": "/travtail-pwa/static/js/runtime-main.7273cfbd.js",
-    "runtime-main.js.map": "/travtail-pwa/static/js/runtime-main.7273cfbd.js.map",
-    "static/js/2.cdb7485f.chunk.js": "/travtail-pwa/static/js/2.cdb7485f.chunk.js",
-    "static/js/2.cdb7485f.chunk.js.map": "/travtail-pwa/static/js/2.cdb7485f.chunk.js.map",
-    "index.html": "/travtail-pwa/index.html",
-    "precache-manifest.2fb949621b67441b90bc10862d15891a.js": "/travtail-pwa/precache-manifest.2fb949621b67441b90bc10862d15891a.js",
-    "service-worker.js": "/travtail-pwa/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/travtail-pwa/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.cdb7485f.chunk.js.LICENSE.txt": "/travtail-pwa/static/js/2.cdb7485f.chunk.js.LICENSE.txt",
-    "static/media/background.jpeg": "/travtail-pwa/static/media/background.71e11239.jpeg"
+    "main.css": "/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/static/js/main.0650a4f7.chunk.js",
+    "main.js.map": "/static/js/main.0650a4f7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7cb8037e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7cb8037e.js.map",
+    "static/js/2.8892fc66.chunk.js": "/static/js/2.8892fc66.chunk.js",
+    "static/js/2.8892fc66.chunk.js.map": "/static/js/2.8892fc66.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9b16373b32e2ec308535b81ee4a891ea.js": "/precache-manifest.9b16373b32e2ec308535b81ee4a891ea.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8892fc66.chunk.js.LICENSE.txt": "/static/js/2.8892fc66.chunk.js.LICENSE.txt",
+    "static/media/background.jpeg": "/static/media/background.71e11239.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7273cfbd.js",
-    "static/js/2.cdb7485f.chunk.js",
+    "static/js/runtime-main.7cb8037e.js",
+    "static/js/2.8892fc66.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.d4afa458.chunk.js"
+    "static/js/main.0650a4f7.chunk.js"
   ]
 }
